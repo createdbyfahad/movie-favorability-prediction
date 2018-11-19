@@ -4,7 +4,7 @@
 ## How to run
 There are two options to run the demonstration:
 - Clone the repo and run it locally as Jupyter (python 3) notebook
-- Or demo it in the cloud using Binder. Link: 
+- Or demo it in the cloud using Binder. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/createdbyfahad/movie-favorability-prediction/master)
 
 ## About the project
 The purpose of this three-part project is to use machine learning into making use of a publicly available table called IMDB 5000 titles. The main idea is to come up with a function which can predicate, with high accuracy, whether a provided movie data will have 7.5 stars or more by the user community. Decision trees and Random forests techniques will be used to determine what to use out of the two.
